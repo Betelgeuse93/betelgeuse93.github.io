@@ -1,11 +1,11 @@
 Ciao a tutti,
 
-benvenuti in questo piccolo mio spazio su GitHub. In questo spazio pubblicherò alcuni piccoli esperimenti che ho fatto usando Javascript.
-Visto che mi complico la vita per molte cose, per realizzare questo piccolo sito ho deciso di fare le cose semplici e quini ho optato per usare [Raito](https://raito.arnaud.at/) un sistema molto itnuitivo ed immediato per un microblog come questo.
+benvenuti nel mio GitHub. In questo spazio pubblicherò alcuni piccoli esperimenti che ho fatto usando Javascript.
+Visto che mi complico la vita per molte cose, per realizzare questo piccolo sito ho deciso di fare le cose semplici e quini ho optato per [Raito](https://raito.arnaud.at/) un sistema molto itnuitivo ed immediato per un microblog come questo.
 
 ## La mia prima app pubblica
 
-Per iniziare vi presento un banale progetto che in futuro porterò su android wrappato in un apk di un semplice segnachilometri che ho chiamato **Ciclocomputer**.
+Per iniziare vi presento un banale progetto che in futuro porterò su android, un semplice segnachilometri che ho chiamato **Ciclocomputer**.
 
 L'idea per **Ciclocomputer** mi è venuta dopo che per l'ennesima volta il ciclocomputer della mia bicicletta ha deciso di abbandonarmi e quindi ogni volta perdo il numero totale di chilometri percorsi in bicicletta.
 
