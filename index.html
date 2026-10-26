@@ -1,18 +1,18 @@
 <!doctype html>
-<html lang="en">
+<html lang="it">
 
 <head>
 	<meta charset="UTF-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-	<link rel="icon" href="docs/logo.svg">
+	<!--<link rel="icon" href="docs/logo.svg">-->
 </head>
 
 <!-- USER CONFIG -->
 <script>
 	const config = {
 		sitePath: "/",
-		browserRouter: true,
+		browserRouter: false,
 		name: "Betelgeuse93 Blog",
 		components: ["template/navbar"],
 		footers: ["template/footer"],
@@ -24,11 +24,7 @@
 		scroll-margin-top: 5rem;
 	}
 
-	#docs-github p {
-		margin: 0;
-	}
-
-	#docs-navbar {
+	#template-navbar {
 		width: 100%;
 		background-color: var(--color-1);
 		color: white;
@@ -39,7 +35,7 @@
 		z-index: 5;
 	}
 
-	#docs-navbar>ul>li>a>img {
+	#template-navbar>ul>li>a>img {
 		border-radius: var(--border-radius);
 		margin: -1em 0;
 		vertical-align: super;
@@ -48,7 +44,7 @@
 		width: 2rem;
 	}
 
-	#docs-navbar ul {
+	#template-navbar ul {
 		display: flex;
 		gap: 1rem;
 		list-style: none;
@@ -58,36 +54,36 @@
 		border: none;
 	}
 
-	#docs-navbar li {
+	#template-navbar li {
 		margin: 1.4rem 0rem;
 		padding: inherit;
 		border: none;
 	}
 
-	#docs-navbar li::before {
+	#template-navbar li::before {
 		content: none;
 	}
 
-	#docs-navbar a {
+	#template-navbar a {
 		text-decoration: none;
 		padding: 0.9em 1.1em;
 		color: white;
 		font-weight: bold;
 	}
 
-	#docs-navbar a:hover {
+	#template-navbar a:hover {
 		background-color: #ffffff14;
 		border-radius: var(--border-radius);
 	}
 
-	#docs-footer {
+	#template-footer {
 		text-align: center;
 		background-color: var(--color-1);
 		color: white;
 		padding: 1rem;
 	}
 
-	#docs-footer a {
+	#template-footer a {
 		color: white;
 		text-decoration: underline;
 	}
@@ -106,9 +102,9 @@
 	:root {
 		--text-color: #313f47;
 		--border-color: #dddddd;
-		--background-color: white;
+		--background-color: #f0f8ff;
 		--darker-background-color: #0000000a;
-		--lighter-background-color: #fcfcfc;
+		--lighter-background-color: #f9f9f9;
 		--color-1: #4285f4;
 		--color-2: #db4437;
 		--color-3: #f4b400;

@@ -1,2 +1,2 @@
-*Betelgeuse93 Blog*
-[Chi sono](pagine/chi-sono)
+- *[Betelgeuse93 Blog](https://betelgeuse93.github.io)*
+- [App](app/index)
