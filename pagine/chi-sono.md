@@ -1,0 +1,1 @@
+Faccio un sacco di cose, ma qui scrivo codice slop senza bisogno di usare l'IA.
