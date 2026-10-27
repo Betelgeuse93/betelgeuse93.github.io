@@ -1,7 +1,7 @@
 Ciao a tutti,
 
 benvenuti nel mio GitHub. In questo spazio pubblicherò alcuni piccoli esperimenti che ho fatto usando Javascript.
-Visto che mi complico la vita per molte cose, per realizzare questo piccolo sito ho deciso di fare le cose semplici e quini ho optato per [Raito](https://raito.arnaud.at/) un sistema molto itnuitivo ed immediato per un microblog come questo.
+Visto che mi complico la vita per molte cose, per realizzare questo piccolo sito ho deciso di fare le cose semplici e quindi ho optato per [Raito](https://raito.arnaud.at/) un sistema molto intuitivo ed immediato per un microblog come questo.
 
 ## La mia prima app pubblica
 
@@ -9,7 +9,7 @@ Per iniziare vi presento un banale progetto che in futuro porterò su android, u
 
 L'idea per **Ciclocomputer** mi è venuta dopo che per l'ennesima volta il ciclocomputer della mia bicicletta ha deciso di abbandonarmi e quindi ogni volta perdo il numero totale di chilometri percorsi in bicicletta.
 
-Se vuoi provare **Ciclocomputer** ti basta [cliccare qui](https://betelgeuse93.github.io/app/ciclocomputer/index.html) oppure ti basta cliccare su *App* nella barra del menù.
+Se vuoi provare **Ciclocomputer** ti basta [cliccare qui](https://betelgeuse93.github.io/app/ciclocomputer/index.html) oppure clicca su *App* nella barra del menù.
 
 Cosa può fare attualmente **Ciclocomputer**:
 ```
@@ -25,7 +25,7 @@ Cosa aggiungerò:
 	- Una funzione per importare i backup
 	- La possibilità di cambiare data
 	- Creare una favicon
-	- Il wrapping in un'app Android. (Al momento non ricarica la pagina dopo l'inserimento di un dato)
+	- Il wrapping in un'app Android. (Al momento, su android, non ricarica la pagina dopo l'inserimento di un dato)
 	- Supporto al GPS su Android
 ```
 
